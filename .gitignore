@@ -1,0 +1,10 @@
+**/__pycache__/
+avsbench_data/
+pretrained_backbones/
+**/sam_sandbox/
+**/train_logs/
+**/test_logs/
+*.pth
+
+.vscode/
+**/.vscode/
