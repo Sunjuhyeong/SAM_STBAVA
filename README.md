@@ -58,4 +58,4 @@ bash test.sh
 
 ### License
 
-This project is released under the Apache 2.0 license as found in the [LICENSE](https://www.notion.so/LICENSE) file.
+This project is released under the MIT License. 
